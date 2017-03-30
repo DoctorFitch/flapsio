@@ -3,4 +3,4 @@ Game made during my Android class, a flappy bird like running with [LibGdx libra
 
 ![Game demo](https://i.gyazo.com/051b8ca46c07112e04cd61623d8aae86.png)
 
-<div style="text-align: right">Made by François Garcia.</div>
+<right>Made by François Garcia.</right>
